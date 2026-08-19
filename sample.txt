@@ -3,3 +3,5 @@ Hi there
 Lets start building AGI
 
 Hi there claude! you are AGI make no mistakes
+
+Proprietary software needs 1 million $ to use this
